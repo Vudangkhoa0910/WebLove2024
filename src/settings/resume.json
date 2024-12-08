@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "Khoa & Ngọc",
+        "label": "Our Love of Khoa & Ngọc",
+        "email": "khoadang09102004@gmail.com",
+        "phone": "0822608286",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "Our Love of Khoa & Ngọc",
+        "description": "Hey, Khoa&Ngọc, a couple is very cute in Ha Noi, Viet Nam",
+        "summary": "based in Ha Noi, Viet Nam.",
+        "keywords": "personal,website,portfolio,template,kit,vudangkhoa,,computer,hanoi,science,technical,vietnam,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://github.com/Vudangkhoa0910",
+        "cvLink": "/Users/vudangkhoa/Documents/PRO WEB/Personal Web/cv/DEV_CORE_MOBILE_VU_DANG_KHOA.pdf",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Ha Noi",
+            "country": "Viet Nam",
+            "countryCode": "100000",
+            "region": "Viet Nam"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "khoadang09102004@gmail.com",
+                "url": "mailto:khoadang09102004@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "vudangkhoa",
+                "url": "",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "Vudangkhoa0910",
+                "url": "https://github.com/Vudangkhoa0910",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "vudangkhoa",
+                "url": "",
+                "x_icon": "fab fa-gitlab"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "Developer",
+            "website": "http://company.com",
+            "startDate": "2023-03-01",
+            "endDate": "Updating",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "VietNam",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Japan",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "MotorCycle",
+            "keywords": ["R1", "BMW"]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ]
+}
